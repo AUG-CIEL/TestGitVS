@@ -5,7 +5,7 @@
 
 int main()
 {
-    std::cout << "Hello World!\n";
+    std::cout << "Hello !\n";
 }
 
 // Exécuter le programme : Ctrl+F5 ou menu Déboguer > Exécuter sans débogage
@@ -13,7 +13,7 @@ int main()
 
 // Astuces pour bien démarrer : 
 //   1. Utilisez la fenêtre Explorateur de solutions pour ajouter des fichiers et les gérer.
-//   2. Utilisez la fenêtre Team Explorer pour vous connecter au contrôle de code source.D:\augerk.SNIRW\TP-SD\TP 2 DEv et Git\TestGitVS
+//   2. Utilisez la fenêtre Team Explorer pour vous connecter au contrôle de code source.
 //   3. Utilisez la fenêtre Sortie pour voir la sortie de la génération et d'autres messages.
 //   4. Utilisez la fenêtre Liste d'erreurs pour voir les erreurs.
 //   5. Accédez à Projet > Ajouter un nouvel élément pour créer des fichiers de code, ou à Projet > Ajouter un élément existant pour ajouter des fichiers de code existants au projet.
