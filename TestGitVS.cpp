@@ -12,7 +12,7 @@ int main()
 	{
 
 		// Affichage du menu !
-		std::cout << "Menu :\n";
+		std::cout << "Menue :\n";
 		std::cout << "1- Opérations booléenes\n";
 		std::cout << "2- Opérations binaires\n";
 		std::cout << "3- Permutation\n";
