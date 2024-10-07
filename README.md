@@ -1,5 +1,5 @@
 - 👋 H
-- 👀 I’m interested in compunter
+- 👀 I’m interested in compunter science 
 
 
 <!---
